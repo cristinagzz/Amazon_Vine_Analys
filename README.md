@@ -17,3 +17,5 @@ In this project, we had access to approximately 50 datasets. Each one contains r
 
 ## Summary
 The results from the analysis indicate a positivity bias towards the Vine program. 
+
+As a recommendation we can analyze the mean, meadian and mode to have a deeper overview about the analysis
